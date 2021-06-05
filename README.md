@@ -1,4 +1,1 @@
-# Java
-# JavaCUOIKI
-# JavaCUOIKI
 # JavaCuoiKi
